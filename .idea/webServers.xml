@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ed93bdbb-8a08-4fc2-8699-94a4ae5bbb8a" name="robot files 1">
+        <fileTransfer accessType="SFTP" host="192.168.0.89" port="22" sshConfigId="534779d7-f09b-4b05-941e-9b60d7c2c85b" sshConfig="mycroft@192.168.0.89:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
